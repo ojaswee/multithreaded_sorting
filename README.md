@@ -1,4 +1,4 @@
-# Multithreaded sorting program
+# Multi-threaded sorting program
 Divide and conquer
 A list of integers is divided into two smaller lists of equal size.
 Two separate threads (which we will term sorting threads) 
